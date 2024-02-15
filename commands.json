@@ -1,6 +1,6 @@
 {
     "whois": {
-        "description": "Who is Rotem Grimberg",
+        "description": "Who is Hanan Levin",
         "help": "You just type whois and get my life story, what help do you need?!",
         "handler": "many",
         "data": [
@@ -9,7 +9,7 @@
             },
             {
                 "handler": "write",
-                "data": "I'm Rotem Grimberg, a full-stack developer, and a tech enthusiast.\nI have a passion for creating and learning new things, and I'm always looking for new challenges.\nI have a BSc in Computer Science and I'm currently working as a frontend architect at a startup company."
+                "data": "I'm Hanan Levin, a full-stack developer, and a tech enthusiast.\nI have a passion for creating and learning new things, and I'm always looking for new challenges.\nI have a BSc in Computer Science and I'm currently working as a frontend architect at a startup company."
             },
             {
                 "handler": "setPrompt"
